@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/home/osboxes/Downloads/504073 - Lab06/**/*.jar"
+        ],
+        "exclude": [
+            "504073 - Lab06 - mssql-jdbc-6.2.0.jre8.jar"
+        ]
+    }
+}
